@@ -2,4 +2,4 @@
 
 Это первое приложение 
 
-Vinos (Комаричев Сергей)
+[*Vinos*] (http://twitter.com/vinosgray)
